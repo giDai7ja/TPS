@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "DPDZ", "DPDZ\DPDZ.asmproj", "{57974A55-58A6-410F-A8EF-2A5D6DE38AFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57974A55-58A6-410F-A8EF-2A5D6DE38AFD}.Debug|AVR.ActiveCfg = Debug|AVR
+		{57974A55-58A6-410F-A8EF-2A5D6DE38AFD}.Debug|AVR.Build.0 = Debug|AVR
+		{57974A55-58A6-410F-A8EF-2A5D6DE38AFD}.Release|AVR.ActiveCfg = Release|AVR
+		{57974A55-58A6-410F-A8EF-2A5D6DE38AFD}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
